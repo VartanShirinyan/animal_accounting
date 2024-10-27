@@ -15,3 +15,8 @@
   
    git clone https://github.com/VartanShirinyan/animal_accounting.git
    cd animal_accounting
+
+
+## Диаграмма животных
+
+Для просмотра диаграммы необходимо его скачать и запустить с помощью приложения drawio.
